@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drugsearch">Tra cứu thuốc</string>
+    <string name="drugsearch_entername">Nhập tên thuốc</string>
+    <string name="antibiotic_check">Kiểm tra đơn thuốc</string>
+    <string name="diagnostic">Chuẩn đoán bác sĩ</string>
+    <string name="diagnostic_history">Lịch sử khám bệnh</string>
+    <string name="parametric">Thông số xét nghiệm</string>
+    <string name="drug_information">Thông tin thuốc</string>
+    <string name="add">Thêm</string>
+    <string name="level">Cấp độ</string>
+    <string name="type">Loại</string>
+    <string name="disease">Tên bệnh</string>
+    <string name="check">Kiểm tra</string>
+    <string name="record">Hồ sơ bệnh án</string>
+    <string name="advanced">Nâng cao</string>
+    <string name="basic">Cơ bản</string>
+    <string name="blood_type">Nhóm máu</string>
+    <string name="country">Quốc gia</string>
+    <string name="dob">Ngày tháng năm sinh</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="gender">Giới tính</string>
+    <string name="weight">Cân nặng</string>
+    <string name="height">Chiều cao</string>
+    <string name="notification">Nhắc giờ</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="signup">Đăng ký</string>
+    <string name="liver_func">Chức năng gan</string>
+    <string name="kidney_func">Chức năng thận</string>
+    <string name="ksd">Kháng sinh đồ</string>
+    <string name="blood_pressure">Huyết áp</string>
+    <string name="allergy">Dị ứng</string>
+</resources>

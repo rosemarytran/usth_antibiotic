@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.edu.usth.antibiotic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.Dark">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".FunctionsActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".DrugSearchActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".PersonalRecordActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".PrescriptionActivity"
+            android:parentActivityName=".FunctionsActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CheckAntibioticActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".DiagnosticActivity"
+            android:parentActivityName=".FunctionsActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".NotificationActivity"
+            android:parentActivityName=".FunctionsActivity"
+            android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+                android:name=".DiagnosticHistoryActivity"
+                android:parentActivityName=".FunctionsActivity"
+                android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+                android:name=".ParametricTest"
+                android:parentActivityName=".FunctionsActivity"
+                android:theme="@style/AppTheme.Light">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="vn.edu.usth.antibiotic.MainActivity" />
+        </activity>
+        <activity
+            android:name=".DrugInfomationActivity"
+            android:theme="@style/AppTheme.Light">
+
+        </activity>
+    </application>
+
+</manifest>

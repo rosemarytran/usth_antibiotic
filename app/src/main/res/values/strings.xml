@@ -1,0 +1,624 @@
+<resources>
+    <string name="app_name" translatable="false">Antibiotic</string>
+
+    <string name="drugsearch">Drug search</string>
+    <string name="drugsearch_entername">Enter name</string>
+    <string name="parametric">Test parametric</string>
+    <string name="diagnostic">Doctor\'s diagnostic</string>
+    <string name="diagnostic_history">Diagnostic History</string>
+    <string name="antibiotic_check">Antibiotic check</string>
+    <string name="notification">Notification</string>
+    <string name="drug_information">Drug Information</string>
+
+    <string name="add">Add</string>
+    <string name="check">Check</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="disease">Disease name</string>
+    <string name="type">Type</string>
+    <string name="level">Level</string>
+    <string name="record">Record</string>
+
+    <string name="basic">Basic</string>
+    <string name="advanced">Advanced</string>
+    <string name="blood_type">Blood type</string>
+    <string name="country">Country</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Date of birth</string>
+    <string name="full_name">Full name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="signup">Sign up</string>
+    <string name="password">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="login">Login</string>
+    <string name="liver_func">Liver Function</string>
+    <string name="kidney_func">Kidney Function</string>
+    <string name="ksd">KSD</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="allergy">Allergy</string>
+
+
+    <!-- Drug description -->
+    <string name="penicillin" formatted="false">
+        "Phenoxymethyl penicilin (penicilin V) là một penicilin bền vững với acid dịch vị nên được dùng đường uống.
+
+Tên quốc tế: Phenoxymethyl penicillin.
+
+Loại thuốc: Kháng sinh nhóm beta - lactam.
+
+Dạng thuốc và hàm lượng
+
+Viên nén 125 mg, 250 mg, 500 mg có chứa penicilin V kali (tức phenoxymethyl penicilin kali) tương đương với 200.000, 400.000, 800.000 đơn vị penicilin V. Có loại viên nén chứa 1.000.000 đơn vị. Các tá dược thường gặp như natri carboxymethyl cellulose, magnesi stearat và acid stearic, lactose, tinh bột.
+
+Bột 125 mg, 250 mg để pha thành dung dịch uống có chứa penicilin V kali tương đương với 200 000 đơn vị hoặc 400.000 đơn vị/5 ml. Thành phần không hoạt tính thường được dùng bao gồm: Acid citric, natri saccharin, natri benzoat, natri citrat, natri propionat và sacarose.
+
+Phenoxymethyl penicilin 250 mg tương đương với 400.000 đơn vị penicilin.
+
+Tác dụng
+
+Phenoxymethyl penicilin (penicilin V) là một penicilin bền vững với acid dịch vị nên được dùng đường uống. Tác dụng dược lý và cơ chế tác dụng tương tự như benzylpenicilin. Penicilin V có tác dụng tốt trên các cầu khuẩn Gram dương thường gặp như các liên cầu tan huyết nhóm beta, các liên cầu viridans và phế cầu. Thuốc cũng có tác dụng với Staphylococcus (ngoại trừ chủng sinh penicilinase).
+
+Chỉ định
+
+Phenoxymethyl penicilin được dùng tương tự như benzylpenicilin trong điều trị hoặc phòng các nhiễm khuẩn gây ra bởi các vi khuẩn nhạy cảm, đặc biệt là Streptococcus, nhưng chỉ dùng trong điều trị những nhiễm khuẩn nhẹ hoặc trung bình.
+
+Hiện nay, penicilin V được chỉ định trong những nhiễm khuẩn nhẹ đến trung bình như:
+
+Nhiễm khuẩn đường hô hấp trên, viêm họng - amidan, viêm tai giữa.
+
+Nhiễm khuẩn ở miệng, họng.
+
+Viêm phổi thể nhẹ do Pneumococcus.
+
+Nhiễm khuẩn da và mô mềm.
+
+Phòng thấp khớp cấp tái phát.
+
+Ðiều trị cần dựa trên kết quả thử kháng sinh đồ và đáp ứng lâm sàng.
+
+Chống chỉ định
+
+Có tiền sử quá mẫn với penicilin.
+
+Thận trọng
+
+Có dị ứng chéo với các cephalosporin. Trường hợp đã biết có dị ứng với cephalosporin thì không dùng penicilin. Tuy nhiên, nếu có dị ứng với penicilin, thường có thể dùng cephalosporin thay thế.
+
+Nên thận trọng khi dùng penicilin V cho những người bệnh có tiền sử dị ứng hoặc hen.
+
+Nhiễm khuẩn đường hô hấp nặng (như viêm phổi nặng) không thể điều trị bằng penicilin V.
+
+Thời kỳ mang thai
+
+Không thấy có nguy cơ gây hại cho người mang thai.
+
+Thời kỳ cho con bú
+
+Penicilin V có tiết vào sữa mẹ, mặc dù không gây hại nhưng có thể gây phản ứng dị ứng cho trẻ bú mẹ.
+
+Tác dụng phụ
+
+Thường gặp
+
+Ỉa chảy, buồn nôn.
+
+Ngoại ban.
+
+Ít gặp
+
+Tăng bạch cầu ưa eosin.
+
+Nổi mày đay.
+
+Hiếm gặp
+
+Sốc phản vệ.
+
+Ỉa chảy có liên quan tới Clostridium difficile (ít gặp hơn nhiều so với khi dùng ampicilin và amoxicilin).
+
+Xử trí
+
+Ngừng thuốc nếu người bệnh bị ỉa chảy hoặc có phản ứng dị ứng.
+
+Liều lượng và cách dùng
+
+Ðiều trị viêm phổi do Pneumococcus, viêm amidan, viêm họng bởi Streptococcus nhóm A hoặc những nhiễm khuẩn khác do Streptococcus tan huyết nhóm beta:
+
+Người lớn và trẻ em trên 12 tuổi: 250 - 500 mg, 6 - 8 giờ một lần.
+
+Trẻ em dưới 12 tuổi: 25 - 50 mg/kg/ngày, chia làm 3 - 4 lần.
+
+Viêm tai giữa: 25 mg/kg/lần, 2 - 3 lần/ngày. Thời gian điều trị thường là 10 ngày.
+
+Liều điều chỉnh cho người suy thận nặng:
+
+Ðộ thanh thải creatinin trên 10 ml/phút: 250 - 500 mg, 6 giờ một lần.
+
+Ðộ thanh thải creatinin dưới 10 ml/phút: 250 mg, 6 giờ một lần.
+
+Ðể phòng thấp khớp cấp tái phát, có thể dùng liều 250 mg, 2 lần/ngày.
+
+Nên uống thuốc 30 phút trước hoặc 2 giờ sau bữa ăn.
+
+Trường hợp nhiễm H. influenzae (giống như điều trị viêm tai ở trẻ em nói chung): Penicilin V 50 mg/kg thể trọng/24 giờ, chia làm 2 lần. Ðiều trị ít nhất 10 ngày.
+
+Nếu không khỏi, cho amoxicilin và acid clavulanic hoặc một cephalosporin dạng uống hoặc trimethoprim+ sulfamethoxazol. Các kháng sinh nhóm macrolid không được chỉ định trong trường hợp điều trị bằng penicilin không hiệu quả.
+
+Tương tác
+
+Hấp thu của penicilin V bị giảm bởi chất gôm nhựa.
+
+Neomycin dạng uống có thể làm giảm hấp thu của penicilin V tới 50%. Có thể do neomycin gây hội chứng giảm hấp thu có hồi phục.
+
+Bảo quản
+
+Bảo quản thuốc ở nhiệt độ phòng (20 – 350C). "
+    </string>
+    <string name="tetracycline" formatted="false">
+        "Tetracyclin có tác dụng trên nhiều vi khuẩn gây bệnh cả Gram âm và Gram dương, cả hiếu khí và kỵ khí; thuốc cũng có tác dụng trên Chlamydia, Mycoplasma, Rickettsia, Spirochaete.
+
+
+
+Do mức độ kháng thuốc nghiêm trọng của vi khuẩn và do đã có nhiều loại thuốc kháng khuẩn khác nên cần hạn chế sử dụng tetracyclin. Tuy nhiên, thuốc vẫn còn một số chỉ định, cụ thể là:
+
+Nhiễm khuẩn do Chlamydia: Bệnh Nicolas Favre; viêm phổi, viêm phế quản hoặc viêm xoang do Chlamydia pneumoniae; sốt vẹt (Psittacosis); bệnh mắt hột; viêm niệu đạo không đặc hiệu do Chlamydia trachomatis...
+
+Nhiễm khuẩn do Rickettsia.
+
+Nhiễm khuẩn do Mycoplasma, đặc biệt các nhiễm khuẩn do Mycoplasma pneumoniae.
+
+Nhiễm khuẩn do Brucella và Francisella tularensis.
+
+Bệnh dịch hạch (do Yersinia pestis), bệnh dịch tả (do Vibrio cholerae).
+
+Trứng cá.
+
+Tham gia trong một số phác đồ trị H. pylori trong bệnh loét dạ dày tá tràng.
+
+Phối hợp với thuốc chống sốt rét như quinin để điều trị sốt rét do Plasmodium falciparum kháng thuốc.
+
+Chỉ nên dùng tetracyclin khi đã chứng minh được vi khuẩn gây bệnh còn nhạy cảm.
+
+Chống chỉ định
+
+Chống chỉ định cho những người mẫn cảm với bất kỳ một tetracyclin nào.
+
+Do việc sử dụng các thuốc nhóm tetracyclin trong quá trình phát triển của răng (nửa cuối thai kỳ và trẻ dưới 8 tuổi) có thể gây biến màu răng vĩnh viễn (vàng, xám, nâu) và thuốc có thể gắn vào và ảnh hưởng tới sự phát triển của xương, không dùng tetracyclin cho phụ nữ mang thai và trẻ em dưới 8 tuổi.
+
+Thận trọng
+
+Như các kháng sinh khác, tetracyclin có thể gây phát triển quá mức các vi sinh vật không nhạy cảm, kể cả nấm. Nếu xảy ra bội nhiễm, cần ngừng thuốc và thay thế bằng một phác đồ khác thích hợp.
+
+Khi điều trị kéo dài, cần thực hiện các xét nghiệm định kỳ đánh giá chức năng gan, thận và tạo huyết.
+
+Một vài trường hợp dùng tetracyclin thấy có phản ứng nhạy cảm với ánh sáng biểu hiện bằng bỏng nắng khi tiếp xúc với ánh nắng mặt trời. Những người bệnh dùng tetracyclin nếu phải tiếp xúc trực tiếp với ánh nắng mặt trời hay tia tử ngoại cần được cảnh báo về nguy cơ này và cần ngừng thuốc ngay khi có những triệu chứng đầu tiên của ban đỏ.
+
+Thời kỳ mang thai
+
+Không dùng các kháng sinh nhóm tetracyclin cho phụ nữ mang thai, việc dùng tetracyclin trong và gần thai kỳ sẽ gây các hậu quả sau:
+
+Tác hại đến răng và xương thai nhi (xem chống chỉ định).
+
+Ðộc với gan của người mang thai.
+
+Gây dị tật bẩm sinh.
+
+Các tác hại khác
+
+Thời kỳ cho con bú
+
+Tetracyclin phân bố trong sữa mẹ. Mặc dù tetracyclin có thể tạo với calci trong sữa mẹ những phức hợp không hấp thu được, nhưng vẫn không nên dùng tetracyclin trong thời kỳ cho con bú vì khả năng biến mầu răng vĩnh viễn, giảm sản men răng, ức chế sự phát triển xương, phản ứng nhạy cảm ánh sáng và nấm Candida ở miệng và âm đạo trẻ nhỏ.
+
+Tác dụng phụ
+
+Thường gặp
+
+Buồn nôn, nôn, ỉa chảy.
+
+Răng trẻ kém phát triển và biến màu khi sử dụng tetracyclin cho phụ nữ mang thai và trẻ dưới 8 tuổi.
+
+Tăng phát triển vi khuẩn kháng kháng sinh và nguy cơ phát triển vi khuẩn đường ruột kháng kháng sinh.
+
+Ít gặp
+
+Loét và co hẹp thực quản.
+
+Phản ứng dị ứng da, mày đay, phù Quincke, tăng nhạy cảm với ánh sáng khi tiếp xúc trực tiếp với ánh nắng mặt trời.
+
+Hiếm gặp
+
+Các phản ứng quá mẫn phản vệ, ban xuất huyết phản vệ, viêm ngoại tâm mạc, lupus ban đỏ toàn thân trầm trọng thêm.
+
+Thiếu máu tan huyết, giảm tiểu cầu, giảm bạch cầu trung tính và tăng bạch cầu ưa eosin.
+
+Viêm ruột kết màng giả, viêm lưỡi, viêm miệng, viêm tụy.
+
+Viêm cổ tử cung, viêm âm đạo, nhiễm nấm do rối loạn hệ vi khuẩn thường trú.
+
+Ðộc với gan cùng với suy giảm chức năng thận.
+
+Tăng áp suất nội sọ lành tính.
+
+Xử trí
+
+Ngừng sử dụng tetracyclin. Với các phản ứng bất lợi nhẹ, thường chỉ cần ngừng thuốc. Trường hợp mẫn cảm nặng hoặc phản ứng dị ứng, cần tiến hành điều trị hỗ trợ (giữ thoáng khí và dùng epinephrin, thở oxygen, dùng kháng histamin, corticoid...).
+
+Liều lượng và cách dùng
+
+Tetracyclin thường được uống khi điều trị nhiễm khuẩn toàn thân. Trường hợp nhiễm khuẩn cấp tính nặng, có thể chỉ định tiêm truyền tĩnh mạch chậm hoặc tiêm bắp nhưng rất hiếm. Vì tiêm bắp tetracyclin gây đau, procain hydroclorid thường được thêm vào trong dung dịch tiêm. Nên chuyển sang uống thay cho tiêm ngay khi có thể.
+
+Liều tetracyclin base và tetracyclin hydroclorid đều được tính theo muối hydroclorid. Liều uống thường dùng của người lớn là 250 mg hoặc 500 mg cứ 6 giờ một lần, nên uống 1 giờ trước hoặc 2 giờ sau khi ăn.
+
+Trẻ em trên 8 tuổi uống 25 - 50 mg/kg thể trọng/ngày chia 2 - 4 lần.
+
+Nếu nhiễm khuẩn nặng, có thể cứ 12 giờ một lần tiêm truyền tĩnh mạch chậm một dung dịch chứa không quá 0,5% tetracyclin hydroclorid.
+
+Liều thường tiêm truyền là 1 g/ngày, nhưng đối với người bệnh có chức năng thận bình thường, có thể dùng tới 2 g/ngày. Nếu tiêm bắp thì ngày tiêm 200 - 300 mg, chia nhiều lần tiêm.
+
+Nên tiếp tục dùng thuốc ít nhất 24 - 48 giờ sau khi hết các triệu chứng và sốt.
+
+Cần thận trọng khi dùng tetracyclin cho người cao tuổi. Tránh dùng cho những trường hợp suy thận, nếu bắt buộc phải dùng thì phải giảm liều cho thích hợp.
+
+Ðể tránh kích ứng thực quản, nên uống tetracyclin với nhiều nước (ít nhất là một cốc to) ở tư thế đứng, người bệnh không nên nằm nghỉ ngay sau khi uống thuốc.
+
+Các dạng dùng khác: Mặc dù việc dùng tại chỗ có nguy cơ tăng nhạy cảm dẫn đến tăng tính kháng thuốc của vi khuẩn, tetracyclin hydroclorid vẫn được bào chế dưới dạng mỡ bôi ngoài da 3%. Dung dịch 0,2% dùng trị trứng cá, tuy nhiên việc điều trị toàn thân cho kết quả tốt hơn.
+
+Mỡ tra mắt hoặc thuốc tra mắt 1% được dùng để điều trị các bệnh nhiễm khuẩn mắt do các vi khuẩn nhạy cảm với tetracyclin.
+
+Tương tác
+
+Tetracyclin + penicilin: Tetracyclin làm giảm hoạt lực của penicilin trong điều trị viêm màng não do phế cầu khuẩn và có thể cả bệnh tinh hồng nhiệt. Tương tác này không chắc chắn có xảy ra đối với các nhiễm khuẩn khác hay không. Có thể sự giảm hoạt lực này chỉ quan trọng đối với các trường hợp cần diệt khuẩn nhanh chóng.
+
+Tetracyclin + thuốc chống acid: Nồng độ tetracyclin huyết tương giảm dẫn đến hoạt tính điều trị của kháng sinh giảm đi rõ rệt hay mất hẳn nếu dùng cùng với các thuốc chống acid chứa nhôm, bismut, calci hay magnesi. Các antacid khác như natri bicarbonat làm tăng pH dịch vị cũng có thể làm giảm sinh khả dụng của một số chế phẩm có tetracyclin.
+
+Tetracyclin + thuốc lợi tiểu: Ðã có khuyến cáo không nên phối hợp các tetracyclin với các thuốc lợi tiểu vì tương tác này dẫn đến gây tăng urê huyết.
+
+Tetracyclin + các chế phẩm chứa sắt: Phối hợp tetracyclin với các muối sắt làm giảm rõ rệt hấp thu cả hai loại thuốc này ở ruột, dẫn đến giảm nồng độ thuốc trong huyết thanh, hiệu lực điều trị giảm hay mất hẳn. Nếu bắt buộc phải dùng cả hai loại thuốc này, thời gian uống chúng phải cách xa nhau càng lâu càng tốt để tránh sự trộn lẫn hai thuốc này ở ruột.
+
+Tetracyclin + sữa và các sản phẩm từ sữa: Hấp thu các tetracyclin giảm đáng kể (đến 70 - 80%) nếu dùng cùng sữa và các sản phẩm từ sữa, dẫn đến giảm hay mất hẳn khả năng điều trị.
+
+Bảo quản
+
+Trong dung dịch, tetracyclin có thể bị epime hóa thành 4 - epitetracyclin tác dụng kém hơn. Ðộ epime hóa phụ thuộc pH dung dịch và mạnh nhất ở pH khoảng 3 với khoảng 55% ở dạng epime hóa khi đạt trạng thái cân bằng. Sự epime hóa bị ảnh hưởng bởi nhiều yếu tố như nhiệt độ, sự có mặt của ion phosphat hay ion citrat. Dung dịch tiêm tĩnh mạch tetracyclin hydroclorid ở pH 3 - 5 có thể giữ ổn định trong 6 giờ, nhưng mất 8 - 12% hoạt lực sau 24 giờ ở nhiệt độ phòng. Ngược lại với dạng dung dịch, dạng hỗn dịch tetracyclin hydroclorid ổn định ít nhất 3 tháng ở pH 4 - 7.
+
+Cũng đã có các nghiên cứu về độ ổn định của dạng bào chế rắn và dạng bột ở nhiệt độ và độ ẩm khác nhau: Tetracyclin hydroclorid tương đối ổn định khi bảo quản ở 37oC và độ ẩm 66%, mất 10% hoạt lực sau 2 tháng. Dạng muối phosphat kém ổn định hơn, mất đi 25 - 40% hoạt lực trong cùng điều kiện và thời gian và tạo các sản phẩm phân hủy có độc tính.
+
+Tương kỵ
+
+Dung dịch tiêm tetracyclin có pH acid và tương kỵ có thể xảy ra với các chế phẩm có tính base hay các thuốc không ổn định ở pH thấp. Tương kỵ được khuyến cáo với nhiều thuốc như: Các penicilin, cloramphenicol natri sucinat, các muối erythromycin, oxacilin natri, polymyxin B sulfat, sulfadiazin natri, sulphafurazol diethanolamin, amikacin sulfat, aminophylin, các barbiturat, máu, clorothiazid natri, clorpromazin, cyanocobalamin, dimenhydrinat, heparin natri, hydrocortison natri sucinat, methyldopa, nitrofurantoin, các thuốc giảm đau opioid như morphin và pethidin, phenytoin natri, một số dung dịch nuôi dưỡng nhân tạo, các vitamin nhóm B và warfarin natri. Tetracyclin có thể tạo chelat bền vững với các ion kim loại, và tương kỵ này được khuyến cáo đối với các dung dịch có chứa calci, magnesi, mangan, nhôm, sắt.
+
+Quy chế
+
+Thuốc dạng tiêm kê đơn và bán theo đơn."
+    </string>
+    <string name="gentamicin" formatted="false">
+        "Gentamicin ít có tác dụng đối với các khuẩn lậu cầu, liên cầu, phế cầu, não mô cầu, Citrobacter, Providencia và Enterococci. Các vi khuẩn kỵ khí bắt buộc như Bacteroides, Clostridia đều kháng gentamicin.
+
+        Tên quốc tế: Gentamicin.
+
+Loại thuốc: Kháng sinh nhóm aminoglycosid.
+
+Dạng thuốc và hàm lượng
+
+Gentamicin sulfat là một phức hợp sulfat của gentamicin C1, gentamicin C1A và gentamicin C2.
+
+Dung dịch tiêm 2 mg/ml; 10 mg/ml; 40 mg/2 ml; 80 mg/2 ml; 160 mg/2 ml.
+
+Tác dụng
+
+Gentamicin sulfat là một kháng sinh thuộc nhóm aminoglycosid có tác dụng diệt khuẩn qua ức chế quá trình sinh tổng hợp protein của vi khuẩn.
+
+Phổ diệt khuẩn của gentamicin thực tế bao gồm các vi khuẩn hiếu khí Gram âm và các tụ cầu khuẩn, kể cả các chủng tạo ra penicilinase và kháng methicilin.
+
+Gentamicin ít có tác dụng đối với các khuẩn lậu cầu, liên cầu, phế cầu, não mô cầu, Citrobacter, Providencia và Enterococci. Các vi khuẩn kỵ khí bắt buộc như Bacteroides, Clostridia đều kháng gentamicin.
+
+Chỉ định
+
+Gentamicin thường được dùng phối hợp với các kháng sinh khác (beta - lactam) để điều trị các bệnh nhiễm khuẩn nặng toàn thân gây ra bởi các vi khuẩn Gram âm và các vi khuẩn khác còn nhạy cảm, bao gồm: Nhiễm khuẩn đường mật (viêm túi mật và viêm đường mật cấp), nhiễm Brucella, các nhiễm khuẩn trong bệnh nhày nhớt, viêm nội tâm mạc, nhiễm khuẩn huyết, nhiễm Listeria, viêm màng não, viêm phổi, nhiễm khuẩn ngoài da như bỏng, loét, nhiễm khuẩn xương, khớp, nhiễm khuẩn trong ổ bụng (bao gồm viêm phúc mạc), các nhiễm khuẩn về đường tiết niệu (viêm thận bể thận cấp) cũng như trong việc phòng nhiễm khuẩn khi mổ và trong điều trị các người bệnh suy giảm miễn dịch và người bệnh trong đơn nguyên chăm sóc tăng cường...
+
+Gentamicin thường được dùng cùng với các chất diệt khuẩn khác để mở rộng phổ tác dụng và làm tăng hiệu lực điều trị. Thí dụ gentamicin được phối hợp với penicilin trong các nhiễm khuẩn do cầu khuẩn đường ruột và liên cầu gây ra, hoặc phối hợp với một beta - lactam kháng trực khuẩn mủ xanh trong các nhiễm khuẩn do trực khuẩn mủ xanh gây ra, hoặc với metronidazol hay clindamycin trong các bệnh do hỗn hợp các khuẩn ưa khí - kỵ khí gây ra.
+
+Chống chỉ định
+
+Người bệnh dị ứng với gentamicin và với các aminoglycosid khác.
+
+Thận trọng
+
+Tất cả các aminoglycosid đều độc hại đối với cơ quan thính giác và thận. Tác dụng không mong muốn quan trọng thường xảy ra với người bệnh cao tuổi và/hoặc với người bệnh đã bị suy thận. Cần phải theo dõi rất cẩn thận đối với người bệnh được điều trị với liều cao hoặc dài ngày, với trẻ em, người cao tuổi và người suy thận, ở họ, cần phải giảm liều. Người bệnh có rối loạn chức năng thận, rối loạn thính giác... có nguy cơ bị độc hại với cơ quan thính giác nhiều hơn. Phải sử dụng rất thận trọng nếu có chỉ định bắt buộc ở những người bị nhược cơ nặng, bị Parkinson hoặc có triệu chứng yếu cơ. Nguy cơ nhiễm độc thận thấy ở người bị hạ huyết áp, hoặc có bệnh về gan hoặc phụ nữ.
+
+Thời kỳ mang thai
+
+Tất cả các aminoglycosid đều qua nhau thai và có thể gây độc thận cho thai. Với gentamicin chưa có nghiên cứu đầy đủ trên người nhưng vì các aminoglycosid khác đều có thể gây điếc cho thai, cần phải cân nhắc lợi và hại khi phải dùng gentamicin trong những bệnh đe dọa tính mạng hoặc nghiêm trọng mà các thuốc khác không thể dùng được hoặc không hiệu lực.
+
+Thời kỳ cho con bú
+
+Các amoniglycosid được bài tiết vào sữa với lượng nhỏ. Tuy nhiên các aminoglycosid, kể cả gentamicin, được hấp thu kém qua đường tiêu hóa và chưa có tư liệu về vấn đề độc hại đối với trẻ đang bú mẹ.
+
+Tác dụng phụ
+
+Thường gặp
+
+Nhiễm độc tai không hồi phục và do liều tích tụ, ảnh hưởng cả đến ốc tai (điếc, ban đầu với âm tần số cao) và hệ thống tiền đình (chóng mặt, hoa mắt).
+
+Ít gặp
+
+Nhiễm độc thận có hồi phục. Suy thận cấp, thường nhẹ nhưng cũng có trường hợp hoại tử ống thận hoặc viêm thận kẽ.
+
+Ức chế dẫn truyền thần kinh cơ, có trường hợp gây suy hô hấp và liệt cơ.
+
+Tiêm dưới kết mạc gây đau, sung huyết và phù kết mạc.
+
+Thiếu máu cục bộ ở võng mạc.
+
+Hiếm gặp
+
+Phản ứng phản vệ.
+
+Rối loạn chức năng gan (tăng men gan, tăng bilirubin máu).
+
+Liều lượng và cách dùng
+
+Thường dùng tiêm bắp. Không dùng tiêm dưới da vì nguy cơ hoại tử da. Khi không tiêm bắp được, có thể dùng đường tiêm truyền tĩnh mạch không liên tục. Trường hợp này, pha gentamicin với dung dịch natri clorid hoặc glucose đẳng trương theo tỷ lệ 1 ml dịch truyền cho 1 mg gentamicin. Thời gian truyền kéo dài từ 30 - 60 phút. Với người bệnh có chức năng thận bình thường, cứ 8 giờ truyền 1 lần; ở người suy thận, khoảng cách thời gian truyền phải dài hơn.
+
+Liều lượng phải điều chỉnh tùy theo tình trạng và tuổi tác người bệnh.
+
+Gentamicin thường phối hợp với các kháng sinh khác để mở rộng phổ tác dụng hoặc tăng tính hiệu quả như phối hợp với penicilin để điều trị nhiễm khuẩn do Enterococcus và Streptococcus, hoặc với 1 beta - lactam kháng Pseudomonas để chống nhiễm khuẩn Pseudomonas hoặc với metronidazol hoặc clindamycin đối với nhiễm khuẩn hỗn hợp hiếu khí - yếm khí.
+
+Ở người bệnh có chức năng thận bình thường: Người lớn 3 mg/kg/ngày, chia làm 2 - 3 lần tiêm bắp. Trẻ em: 3 mg/kg/ngày, chia làm 3 lần tiêm bắp (1 mg/kg cứ 8 giờ 1 lần).
+
+Kinh nghiệm gần đây cho thấy cả liều trong ngày có thể tiêm một lần (tiêm bắp hoặc truyền tĩnh mạch quãng ngắn) cho người bệnh dưới 65 tuổi, có chức năng thận bình thường, điều trị không quá 1 tuần, và khi không bị nhiễm khuẩn do Enterococci hoặc Pseudomonas spp. Trong những trường hợp này, hiệu quả ít nhất là tương đương và dung nạp đôi khi tốt hơn, nếu tiêm ngày 1 lần so với cách tiêm cổ điển (8 giờ 1 lần). Trong trường hợp khác, tiêm 2 lần mỗi ngày là cách hay được khuyến cáo nhất, trừ trường hợp suy thận thì cần duy trì các biện pháp thông thường. Khi điều trị kéo dài quá 7 - 10 ngày, nên định lượng nồng độ gentamicin trong huyết tương. Nếu nồng độ còn lại (đo ngay trước khi tiêm liều tiêm tiếp sau) dưới 2 microgam/ml chứng tỏ khoảng cách dùng là phù hợp với khả năng đào thải của người bệnh.
+
+Người bệnh suy thận: Cần thiết phải điều chỉnh liều lượng, theo dõi đều đặn chức năng thận, chức năng ốc tai và tiền đình, đồng thời cần kiểm tra nồng độ thuốc trong huyết thanh (nếu điều kiện cho phép).
+
+Cách điều chỉnh liều theo nồng độ creatinin huyết thanh: Có thể giữ liều duy nhất 1 mg/kg và kéo dài khoảng cách giữa các lần tiêm. Tính khoảng cách (tính theo giờ) giữa 2 lần tiêm bằng cách nhân trị số creatinin huyết thanh (mg/lít) với 0,8; hoặc có thể giữ khoảng cách giữa 2 lần tiêm là 8 giờ, nhưng giảm liều dùng. Trong trường hợp này, sau khi tiêm 1 liều nạp là 1 mg/kg, cứ 8 giờ sau lại dùng 1 liều đã giảm bằng cách chia liều nạp cho một phần mười (1/10) của trị số creatinin huyết thanh (mg/lít).
+
+Cách điều chỉnh liều theo độ thanh thải creatinin nội sinh:
+
+Dùng liều khởi đầu là 1 mg/kg.
+
+Các liều tiếp theo được tiêm cứ 8 giờ một lần, và tính theo công thức:
+
+              giá trị độ thanh thải creatinin của người bệnh
+
+1mg/kg x  ------------------------------------------------------------------
+
+           giá trị bình thường của độ thanh thải creatinin (100)
+
+Các giá trị của độ thanh thải creatinin được biểu thị bằng ml/phút.
+
+Trường hợp thẩm tách máu định kỳ: Tiêm tĩnh mạch chậm liều khởi đầu 1 mg/kg vào cuối buổi thẩm tách máu.
+
+Trường hợp thẩm tách phúc mạc: Liều khởi đầu 1 mg/kg tiêm bắp. Trong khi thẩm tách, các lượng bị mất được bù bằng cách thêm 5 - 10 mg gentamicin cho 1 lít dịch thẩm tách.
+
+Tương tác
+
+Việc sử dụng đồng thời gentamicin với các thuốc gây độc cho thận bao gồm các aminoglycosid khác, vancomycin và một số thuốc họ cephalosporin, hoặc với các thuốc tương đối độc đối với cơ quan thính giác như acid ethacrynic và có thể furosemid sẽ làm tăng nguy cơ gây độc. Nguy cơ này cũng tăng lên khi dùng gentamicin đồng thời với các thuốc có tác dụng ức chế dẫn truyền thần kinh cơ. Indomethacin có thể làm tăng nồng độ huyết tương của các aminoglycosid nếu được dùng chung. Việc sử dụng chung với các thuốc chống nôn như dimenhydrinat có thể che lấp những triệu chứng đầu tiên của sự nhiễm độc tiền đình.
+
+Bảo quản
+
+Bảo quản ở nhiệt độ từ 2 đến 30OC. Tránh để đông lạnh. Không dùng nếu dung dịch tiêm biến mầu hoặc có tủa.
+
+Tương kỵ
+
+Aminoglycosid bị mất hoạt tính in vitro bởi các penicilin và cephalosporin khác nhau do phản ứng với vòng beta - lactam; mức độ mất hoạt tính phụ thuộc vào nhiệt độ, nồng độ và thời gian tiếp xúc. Các aminoglycosid có độ ổn định khác nhau Amikacin là chất vững bền nhất, tobramycin bị bất hoạt nhạy nhất, gentamicin có độ bất hoạt trung gian.
+
+Gentamicin tương kỵ với furosemid, heparin, natri bicarbonat và một vài dung dịch dinh dưỡng dùng ngoài đường tiêu hóa. Gentamicin có phản ứng với các chế phẩm có pH kiềm hoặc với các thuốc không ổn định ở pH acid.
+
+Không được trộn lẫn gentamicin và các aminoglycosid với các thuốc khác trong cùng một bơm tiêm hoặc trong cùng một dịch truyền và không được tiêm chung cùng một đường tĩnh mạch. Khi các aminoglycosid được tiêm phối hợp với một beta - lactam thì phải tiêm ở những vị trí khác nhau.
+
+Quá liều và xử trí
+
+Vì không có thuốc giải độc đặc hiệu, điều trị quá liều hoặc các phản ứng độc của gentamicin là chữa triệu chứng và hỗ trợ.
+
+Cách điều trị được khuyến cáo như sau:
+
+Thẩm tách máu hoặc thẩm tách phúc mạc để loại aminoglycosid ra khỏi máu của người bệnh suy thận.
+
+Dùng các thuốc kháng cholinesterase, các muối calci, hoặc hô hấp nhân tạo để điều trị chẹn thần kinh cơ dẫn đến yếu cơ kéo dài và suy hô hấp hoặc liệt (ngừng thở) có thể xảy ra khi dùng hai hoặc nhiều aminoglycosid đồng thời.
+
+Quy chế
+
+Thuốc kê đơn và bán theo đơn."
+    </string>
+    <string name="ciprofloxacin" formatted="false">
+        "Ciprofloxacin có phổ kháng khuẩn rất rộng, bao gồm phần lớn các mầm bệnh quan trọng. Phần lớn các vi khuẩn Gram âm, kể cả Pseudomonas và Enterobacter đều nhạy cảm với thuốc.
+
+        Tên chung quốc tế: Ciprofloxacin.
+
+Loại thuốc: Kháng sinh nhóm quinolon.
+
+Dạng thuốc và hàm lượng
+
+Dạng để uống là ciprofloxacin hydroclorid, dạng tiêm là ciprofloxacin lactat.
+
+Viên nén 100 mg, 150 mg, 200 mg, 300 mg, 400 mg, 500 mg, 750 mg, nang 200 mg.
+
+Ðạn trực tràng 500 mg.
+
+Thuốc tiêm 200 mg/100 ml, 100 mg/50 ml, 100 mg/10 ml.
+
+Thuốc nhỏ mắt 0,3%.
+
+Dược lý và cơ chế tác dụng
+
+Ciprofloxacin là thuốc kháng sinh bán tổng hợp, có phổ kháng khuẩn rộng, thuộc nhóm quinolon, còn được gọi là các chất ức chế DNA girase. Do ức chế enzym DNA girase, nên thuốc ngăn sự sao chép của chromosom khiến cho vi khuẩn không sinh sản được nhanh chóng. Ciprofloxacin có tác dụng tốt với các vi khuẩn kháng lại kháng sinh thuộc các nhóm khác (aminoglycosid, cephalosporin, tetracyclin, penicilin...) và được coi là một trong những thuốc có tác dụng mạnh nhất trong nhóm fluoroquinolon.
+
+Ciprofloxacin hấp thu nhanh và dễ dàng ở ống tiêu hóa. Khi có thức ăn và các thuốc chống toan, hấp thu thuốc bị chậm lại nhưng không bị ảnh hưởng một cách đáng kể. Sau khi uống, nồng độ tối đa của ciprofloxacin trong máu xuất hiện sau 1 - 2 giờ với khả dụng sinh học tuyệt đối là 70 - 80%. Với liều 250 mg (cho người bệnh nặng 70 kg), nồng độ tối đa trung bình trong huyết thanh là vào khoảng 1,2 mg/lít. Nồng độ tối đa trung bình trong huyết thanh ứng với các liều 500 mg, 750 mg, 1000 mg là 2,4 mg/lít, 4,3 mg/lít và 5,4 mg/lít.
+
+Nồng độ tối đa trong huyết tương sau khi truyền tĩnh mạch trong 30 phút với liều 200 mg là 3 - 4 mg/lít.
+
+Nửa đời trong huyết tương là khoảng 3,5 đến 4,5 giờ ở người bệnh có chức năng thận bình thường, thời gian này dài hơn ở người bệnh bị suy thận và ở người cao tuổi (xem thêm ở phần liều lượng). Dược động học của thuốc không thay đổi đáng kể ở người bệnh mắc bệnh nhày nhớt.
+
+Thể tích phân bố của ciprofloxacin rất lớn (2 - 3 lít/kg thể trọng) và do đó, lọc máu hay thẩm tách màng bụng chỉ rút đi được một lượng nhỏ thuốc. Thuốc được phân bố rộng khắp và có nồng độ cao ở những nơi bị nhiễm khuẩn (các dịch cơ thể, các mô), nói chung thuốc dễ ngấm vào mô. Nồng độ trong mô thường cao hơn nồng độ trong huyết thanh, đặc biệt là ở các nhu mô, cơ, mật và tuyến tiền liệt. Nồng độ trong dịch bạch huyết và dịch ngoại bào cũng gần bằng nồng độ trong huyết thanh. Nồng độ thuốc trong nước bọt, nước mũi, đờm, dịch ổ bụng, da, sụn và xương tuy có thấp hơn, nhưng vẫn ở mức độ thích hợp. Nếu màng não bình thường, thì nồng độ thuốc trong dịch não tủy chỉ bằng 10% nồng độ trong huyết tương; nhưng khi màng não bị viêm, thì thuốc ngấm qua nhiều hơn. Ciprofloxacin đi qua nhau thai và bài tiết qua sữa mẹ. Trong mật cũng có nồng độ thuốc cao.
+
+Khoảng 40 - 50% liều uống đào thải dưới dạng không đổi qua nước tiểu nhờ lọc ở cầu thận và bài tiết ở ống thận. Khoảng 75% liều tiêm tĩnh mạch đào thải dưới dạng không đổi qua nước tiểu và 15% theo phân. Hai giờ đầu tiên sau khi uống liều 250 mg, nồng độ ciprofloxacin trong nước tiểu có thể đạt tới trên 200 mg/lít và sau 8 - 12 giờ là 30 mg/lít. Các đường đào thải khác là chuyển hóa ở gan, bài xuất qua mật, và thải qua niêm mạc vào trong lòng ruột (đây là cơ chế đào thải bù trừ ở người bệnh bị suy thận nặng). Thuốc được đào thải hết trong vòng 24 giờ.
+
+Phổ kháng khuẩn:
+
+Ciprofloxacin có phổ kháng khuẩn rất rộng, bao gồm phần lớn các mầm bệnh quan trọng. Phần lớn các vi khuẩn Gram âm, kể cả Pseudomonas và Enterobacter đều nhạy cảm với thuốc.
+
+Các vi khuẩn gây bệnh đường ruột như Salmonella, Shigella, Yersina và Vibrio cholerae thường nhạy cảm cao. Tuy nhiên, với việc sử dụng ngày càng nhiều và lạm dụng thuốc, đã có báo cáo về tăng tỷ lệ kháng thuốc của Salmonella.
+
+Các vi khuẩn gây bệnh đường hô hấp như Haemophilus và Legionella thường nhạy cảm, Mycoplasma và Chlamydia chỉ nhạy cảm vừa phải với thuốc.
+
+Neisseria thường rất nhạy cảm với thuốc.
+
+Nói chung, các vi khuẩn Gram dương (các chủng Enterococcus, Staphylococcus, Streptococcus, Listeria monocytogenes...) kém nhạy cảm hơn. Ciprofloxacin không có tác dụng trên phần lớn các vi khuẩn kỵ khí.
+
+Do cơ chế tác dụng đặc biệt của thuốc nên ciprofloxacin không có tác dụng chéo với các thuốc kháng sinh khác như aminoglycosid, cephalosporin, tetracyclin, penicilin...
+
+Theo báo cáo của Chương trình giám sát quốc gia của Việt Nam về tính kháng thuốc của vi khuẩn gây bệnh thường gặp (1997) và thông tin số 4 năm 1999, thì ciprofloxacin vẫn có tác dụng cao đối với Salmonella typhi (100%), Shigella flexneri (100%). Các vi khuẩn đang tăng kháng ciprofloxacin gồm có Staphylococcus aureus kháng ciprofloxacin với tỉ lệ 20,6%, Escherichia coli kháng ciprofloxacin với tỉ lệ 27,8% và S. pneumoniae kháng ciprofloxacin với tỉ lệ 30%. Tình hình kháng kháng sinh ở các tỉnh phía nam có cao hơn các tỉnh phía bắc. Việc sử dụng ciprofloxacin cần phải thận trọng, có chỉ định đúng, vì kháng ciprofloxacin cũng giống như kháng các thuốc kháng sinh khác là một vấn đề ngày càng thường gặp (xem phần Liều lượng).
+
+Chỉ định
+
+Ciprofloxacin chỉ được chỉ định cho các nhiễm khuẩn nặng mà các thuốc kháng sinh thông thường không tác dụng để tránh phát triển các vi khuẩn kháng cipofloxacin: Viêm đường tiết niệu trên và dưới; viêm tuyến tiền liệt; viêm xương - tủy; viêm ruột vi khuẩn nặng; nhiễm khuẩn nặng mắc trong bệnh viện (nhiễm khuẩn huyết, người bị suy giảm miễn dịch).
+
+Dự phòng bệnh não mô cầu và nhiễm khuẩn ở người suy giảm miễn dịch.
+
+Chống chỉ định
+
+Người có tiền sử quá mẫn với ciprofloxacin và các thuốc liên quan như acid nalidixic và các quinolon khác.
+
+Không được dùng ciprofloxacin cho người mang thai và thời kỳ cho con bú, trừ khi buộc phải dùng.
+
+Thận trọng
+
+Cần thận trọng khi dùng ciprofloxacin đối với người có tiền sử động kinh hay rối loạn hệ thần kinh trung ương, người bị suy chức năng gan hay chức năng thận, người thiếu glucose 6 phosphate dehydrogenase, người bị bệnh nhược cơ.
+
+Dùng ciprofloxacin dài ngày có thể làm các vi khuẩn không nhạy cảm với thuốc phát triển quá mức. Nhất thiết phải theo dõi người bệnh và làm kháng sinh đồ thường xuyên để có biện pháp điều trị thích hợp theo kháng sinh đồ.
+
+Ciprofloxacin có thể làm cho các xét nghiệm vi khuẩn Mycobacterium tuberculosis bị âm tính.
+
+Ciprofloxacin có thể gây hoa mắt chóng mặt, đầu óc quay cuồng, ảnh hưởng đến việc điều khiển xe cộ hay vận hành máy móc.
+
+Hạn chế dùng ciprofloxacin cho trẻ nhỏ và trẻ đang lớn (trên thực nghiệm, thuốc có gây thoái hóa sụn ở các khớp chịu trọng lực).
+
+Thời kỳ mang thai
+
+Chỉ nên dùng ciprofloxacin cho người mang thai trong những trường hợp nhiễm khuẩn nặng mà không có kháng sinh khác thay thế, buộc phải dùng tới fluoroquinolon.
+
+Thời kỳ cho con bú
+
+Không dùng ciprofloxacin cho người cho con bú, vì ciprofloxacin tích lại ở trong sữa và có thể đạt đến nồng độ có thể gây tác hại cho trẻ. Nếu mẹ buộc phải dùng ciprofloxacin thì phải ngừng cho con bú.
+
+Tác dụng không mong muốn (ADR)
+
+Nói chung, ciprofloxacin dung nạp tốt. Tác dụng phụ của thuốc chủ yếu là lên dạ dày - ruột, thần kinh trung ương và da.
+
+Thường gặp, ADR > 1/100
+
+Tiêu hóa: Buồn nôn, nôn, ỉa chảy, đau bụng.
+
+Chuyển hóa: Tăng tạm thời nồng độ các transaminase.
+
+
+Toàn thân: Nhức đầu, sốt do thuốc.
+
+Máu: Tăng bạch cầu ưa eosin, giảm bạch cầu lympho, giảm bạch cầu đa nhân, thiếu máu, giảm tiểu cầu.
+
+Tim - mạch: Nhịp tim nhanh.
+
+Thần kinh trung ương: Kích động.
+
+Tiêu hóa: Rối loạn tiêu hóa.
+
+Da: Nổi ban, ngứa, viêm tĩnh mạch nông.
+
+Chuyển hóa: Tăng tạm thời creatinin, bilirubin và phosphatase kiềm trong máu.
+
+Cơ xương: Ðau ở các khớp, sưng khớp.
+
+Toàn thân: Phản ứng phản vệ hoặc dạng phản vệ.
+
+Máu: Thiếu máu tan máu, tăng bạch cầu, tăng tiểu cầu, thay đổi nồng độ prothrombin.
+
+Thần kinh trung ương: Cơn co giật, lú lẫn, rối loạn tâm thần, hoang tưởng, mất ngủ, trầm cảm, loạn cảm ngoại vi, rối loạn thị giác kể cả ảo giác, rối loạn thính giác, ù tai, rối loạn vị giác và khứu giác, tăng áp lực nội sọ.
+
+Tiêu hóa: Viêm đại tràng màng giả.
+
+Da: Hội chứng da - niêm mạc, viêm mạch, hội chứng Lyell, ban đỏ da thành nốt, ban đỏ đa dạng tiết dịch.
+
+Gan: Ðã có báo cáo về một vài trường hợp bị hoại tử tế bào gan, viêm gan, vàng da ứ mật.
+
+Cơ: Ðau cơ, viêm gân (gân gót) và mô bao quanh. Có một vài trường hợp bị đứt gân, đặc biệt là ở người cao tuổi khi dùng phối hợp với corticosteroid.
+
+Tiết niệu - sinh dục: Có tinh thể niệu khi nước tiểu kiềm tính, đái ra máu, suy thận cấp, viêm thận kẽ.
+
+Khác: Nhạy cảm với ánh sáng khi phơi nắng, phù thanh quản hoặc phù phổi, khó thở, co thắt phế quản.
+
+Hướng dẫn cách xử trí ADR
+
+Ðể tránh có tinh thể niệu, duy trì đủ lượng nước uống vào, tránh làm nước tiểu quá kiềm.
+
+Nếu bị ỉa chảy nặng và kéo dài trong và sau khi điều trị, người bệnh có thể đã bị rối loạn nặng ở ruột (viêm đại tràng màng giả). Cần ngừng ciprofloxacin và thay bằng một kháng sinh khác thích hợp (ví dụ vancomycin).
+
+Nếu có bất kỳ dấu hiệu nào về tác dụng phụ cần ngừng dùng ciprofloxacin và người bệnh cần phải được điều trị tại một cơ sở y tế mặc dù các tác dụng phụ này thường nhẹ hoặc vừa và sẽ mau hết khi ngừng dùng ciprofloxacin.
+
+Liều lượng và cách dùng
+
+Liều uống (ciprofloxacin hydroclorid):
+
+Muốn thuốc hấp thu nhanh, nên uống thuốc 2 giờ sau bữa ăn. Người bệnh cần được dặn uống nhiều nước và không uống thuốc chống toan dạ dày trong vòng 2 giờ sau khi uống thuốc.
+
+Thời gian điều trị ciprofloxacin tùy thuộc vào loại nhiễm khuẩn và mức độ nặng nhẹ của bệnh và cần được xác định tùy theo đáp ứng lâm sàng và vi sinh vật của người bệnh. Với đa số nhiễm khuẩn, việc điều trị cần tiếp tục ít nhất 48 giờ sau khi người bệnh không còn triệu chứng. Thời gian điều trị thường là 1 - 2 tuần, nhưng với các nhiễm khuẩn nặng hoặc có biến chứng, có thể phải điều trị dài ngày hơn.
+
+Ðiều trị ciprofloxacin có thể cần phải tiếp tục trong 4 - 6 tuần hoặc lâu hơn trong các nhiễm khuẩn xương và khớp. Ỉa chảy nhiễm khuẩn thường điều trị trong 3 - 7 ngày hoặc có thể ngắn hơn.
+
+Thời gian truyền tĩnh mạch trong 60 phút.
+
+Cần phải giảm liều ở người bị suy giảm chức năng thận hay chức năng gan. Trong trường hợp người bị suy chức năng thận, nếu dùng liều thấp thì không cần giảm liều; nếu dùng liều cao thì phải điều chỉnh liều dựa vào độ thanh thải creatinin, hoặc nồng độ creatinin trong huyết thanh.
+
+Trẻ em và trẻ vị thành niên:
+
+Uống 7,5 - 15 mg/kg/ngày, chia 2 - 3 lần.
+
+Truyền tĩnh mạch 5 - 10 mg/kg/ngày, truyền trong thời gian từ 30 - 60 phút.
+
+Tương tác thuốc
+
+Dùng đồng thời các thuốc chống viêm không steroid (ibuprofen, indomethacin...) sẽ làm tăng tác dụng phụ của ciprofloxacin.
+
+Dùng đồng thời thuốc chống toan có nhôm và magnesi sẽ làm giảm nồng độ trong huyết thanh và giảm khả dụng sinh học của ciprofloxacin. Không nên uống đồng thời ciprofloxacin với các thuốc chống toan, cần uống thuốc xa nhau (nên uống thuốc chống toan 2 - 4 giờ trước khi uống ciprofloxacin) tuy cách này cũng không giải quyết triệt để được vấn đề.
+
+Ðộ hấp thu ciprofloxacin có thể bị giảm đi một nửa nếu dùng đồng thời một số thuốc gây độc tế bào (cyclophosphamid, vincristin, doxorubicin, cytosin arabinosid, mitozantron).
+
+Nếu dùng đồng thời didanosin, thì nồng độ ciprofloxacin bị giảm đi đáng kể. Nên uống ciprofloxacin trước khi dùng didanosin 2 giờ hoặc sau khi dùng didanosin 6 giờ.
+
+Các chế phẩm có sắt (fumarat, gluconat, sulfat) làm giảm đáng kể sự hấp thu ciprofloxacin ở ruột. Các chế phẩm có kẽm ảnh hưởng ít hơn. Tránh dùng đồng thời ciprofloxacin với các chế phẩm có sắt hoặc kẽm hay uống các thứ thuốc này càng xa nhau càng tốt.
+
+Uống đồng thời sucralfat sẽ làm giảm hấp thu ciprofloxacin một cách đáng kể. Nên cho uống kháng sinh 2 - 6 giờ trước khi uống sucralfat.
+
+Uống ciprofloxacin đồng thời với theophylin có thể làm tăng nồng độ theophylin trong huyết thanh, gây ra các tác dụng phụ của theophylin. Cần kiểm tra nồng độ theophylin trong máu, và có thể giảm liều theophylin nếu buộc phải dùng 2 loại thuốc.
+
+Ciprofloxacin và ciclosporin dùng đồng thời có thể gây tăng nhất thời creatinin huyết thanh. Nên kiểm tra creatinin huyết mỗi tuần 2 lần.
+
+Probenecid làm giảm mức lọc cầu thận và giảm bài tiết ở ống thận, do đó làm giảm đào thải thuốc qua nước tiểu.
+
+Warfarin phối hợp với ciprofloxacin có thể gây hạ prothrombin. Cần kiểm tra thường xuyên prothrombin huyết và điều chỉnh liều thuốc chống đông máu.
+
+Ðộ ổn định và bảo quản
+
+Bảo quản viên nén và nang ciprofloxacin hydroclorid trong lọ kín ở nhiệt độ dưới 300C, tránh ánh sáng cực tím mạnh.
+
+Dung dịch ciprofloxacin hydroclorid trong nước có pH từ 1,5 đến 7,5, giữ ở nhiệt độ phòng có thể bền vững trong ít nhất 14 ngày.
+
+Bảo quản dung dịch tiêm ciprofloxacin lactat đậm đặc ở nhiệt độ 5 - 250C và dung dịch tiêm truyền tĩnh mạch ciprofloxacin ở nhiệt độ 5 - 300C. Chế phẩm thuốc tiêm phải bảo quản tránh ánh sáng và tránh để đóng băng.
+
+Bảo quản thuốc tra mắt ciprofloxacin hydroclorid ở nhiệt độ 2 - 300C, trong lọ kín tránh ánh sáng.
+
+Tương kỵ
+
+Dung dịch tiêm truyền ciprofloxacin có pH từ 3,9 đến 4,5 và tương kỵ với các thuốc tiêm không ổn định về mặt lý hóa ở khoảng pH này. Ðã thấy có tương kỵ giữa ciprofloxacin và heparin natri, giữa ciprofloxacin hoặc pefloxacin với penicilin, fluocloxacilin, amoxycilin, dạng kết hợp amoxycilin và clavulanat kali, aminophylin, và clindamycin. Vì vậy, không được trộn thuốc tiêm ciprofloxacin với các thuốc tiêm khác có pH cao.
+
+Quá liều và xử trí
+
+Nếu đã uống phải một liều lớn, thì cần xem xét để áp dụng những biện pháp sau: gây nôn, rửa dạ dày, lợi niệu. Cần theo dõi người bệnh cẩn thận và điều trị hỗ trợ ví dụ như truyền bù đủ dịch.
+
+Thông tin qui chế
+
+Thuốc phải được kê đơn và bán theo đơn."
+    </string>
+</resources>
