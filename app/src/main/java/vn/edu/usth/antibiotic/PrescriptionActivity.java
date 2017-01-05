@@ -15,6 +15,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -61,6 +62,8 @@ public class PrescriptionActivity extends AppCompatActivity {
                 Class cl = CheckAntibioticActivity.class;
                 Intent myIntent = new Intent(getApplicationContext(), cl);
                 startActivity(myIntent);
+                Toast toast = Toast.makeText(getApplicationContext(), R.string.alert_antibiotic, Toast.LENGTH_SHORT);
+                toast.show();
             }
         });
     }

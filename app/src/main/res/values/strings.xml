@@ -39,6 +39,7 @@
     <string name="ksd">KSD</string>
     <string name="blood_pressure">Blood Pressure</string>
     <string name="allergy">Allergy</string>
+    <string name="alert_antibiotic">Found 1 dangerous antibiotic</string>
 
 
     <!-- Drug description -->
@@ -159,7 +160,6 @@ Bảo quản thuốc ở nhiệt độ phòng (20 – 350C). "
     </string>
     <string name="tetracycline" formatted="false">
         "Tetracyclin có tác dụng trên nhiều vi khuẩn gây bệnh cả Gram âm và Gram dương, cả hiếu khí và kỵ khí; thuốc cũng có tác dụng trên Chlamydia, Mycoplasma, Rickettsia, Spirochaete.
-
 
 
 Do mức độ kháng thuốc nghiêm trọng của vi khuẩn và do đã có nhiều loại thuốc kháng khuẩn khác nên cần hạn chế sử dụng tetracyclin. Tuy nhiên, thuốc vẫn còn một số chỉ định, cụ thể là:
@@ -297,7 +297,7 @@ Thuốc dạng tiêm kê đơn và bán theo đơn."
     <string name="gentamicin" formatted="false">
         "Gentamicin ít có tác dụng đối với các khuẩn lậu cầu, liên cầu, phế cầu, não mô cầu, Citrobacter, Providencia và Enterococci. Các vi khuẩn kỵ khí bắt buộc như Bacteroides, Clostridia đều kháng gentamicin.
 
-        Tên quốc tế: Gentamicin.
+Tên quốc tế: Gentamicin.
 
 Loại thuốc: Kháng sinh nhóm aminoglycosid.
 
@@ -426,7 +426,7 @@ Thuốc kê đơn và bán theo đơn."
     <string name="ciprofloxacin" formatted="false">
         "Ciprofloxacin có phổ kháng khuẩn rất rộng, bao gồm phần lớn các mầm bệnh quan trọng. Phần lớn các vi khuẩn Gram âm, kể cả Pseudomonas và Enterobacter đều nhạy cảm với thuốc.
 
-        Tên chung quốc tế: Ciprofloxacin.
+Tên chung quốc tế: Ciprofloxacin.
 
 Loại thuốc: Kháng sinh nhóm quinolon.
 
